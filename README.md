@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tan!
 - I've worked with major consumer tech companies over the last few years.
-- I have a varied background in PR, Marketing and Integrated Comms.
+- I have a varied background in _PR, Marketing and Integrated Comms_.
 - I'm looking to develop my overall programming knowledge and skillset. 🤔
 
 <!--
