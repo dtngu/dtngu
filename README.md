@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Tan!
-I've worked with major consumer tech companies over the last few years.
-I have a varied background in PR, Marketing and Integrated Comms.
-I'm looking to develop my overall programming knowledge and skillset. 🤔
+- I've worked with major consumer tech companies over the last few years.
+- I have a varied background in PR, Marketing and Integrated Comms.
+- I'm looking to develop my overall programming knowledge and skillset. 🤔
 
 <!--
 **dtngu/dtngu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
